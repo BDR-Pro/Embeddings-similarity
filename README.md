@@ -2,7 +2,11 @@
 
 This simple Python script uses `sentence-transformers` to compute and visualize sentence embeddings and their cosine similarity.
 
-## 🔍 Features
+
+[Colab Ipynb](https://colab.research.google.com/drive/1Mz-QT4492QJEqH3-cxpR7KbowucRGi8H?usp=sharing)
+
+
+## 🔍 Features 
 
 - Loads a small, efficient embedding model: `all-MiniLM-L6-v2`
 - Encodes a set of example sentences into dense vector embeddings
